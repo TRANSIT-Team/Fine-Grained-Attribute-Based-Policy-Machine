@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/access_control/graph-based" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/access_control/graph-based" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/access_control/graph-based-policy-machine" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/access_control/graph-based-policy-machine" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/access_control/graph-based_v2" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/access_control/graph-based_v2" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
