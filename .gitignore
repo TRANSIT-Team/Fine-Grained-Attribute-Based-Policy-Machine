@@ -28,3 +28,5 @@ replay_pid*
 .vscode/
 *.hprof
 access_control/wifa-image.sh
+access_control/graph-based-policy-machine/src/main/resources/application.local.properties
+access_control/graph-based-policy-machine/src/main/resources/application.local.properties
