@@ -3,8 +3,10 @@
  The Service just stores and accomplishe the rights of the stored data. It does not generates ids.
  It needs a neo4J database. So its graph based.
 
+## Docker
  Docker: docker pull transitproject/finer-grained-policy-machine
- Also find a Docker-Compose in /access_control/docker-compose.yml
+
+ Also find a Docker-Compose in /access_control/docker-compose.yml which starts the service and the needed Neo4J Server.
 
 
 ## How it works
